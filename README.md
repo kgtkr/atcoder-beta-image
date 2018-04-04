@@ -1,6 +1,6 @@
 # 使い方
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)という拡張機能をインストール
-2. atcoder-beta-image.user.jsの右のrawボタンをクリックしてインストール
+2. [ここ](https://github.com/kgtkr/atcoder-beta-image/raw/master/atcoder-beta-image.user.js)をクリックしてインストール
 
 # 正常に表示されるようになるページ例
 * https://beta.atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_b
